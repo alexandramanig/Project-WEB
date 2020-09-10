@@ -1,0 +1,49 @@
+body{
+	color:#ffffff;
+	background-image: url("Pozesite/fundal.jpg");
+}
+
+h1{
+	text-align:center;
+}
+
+h3{
+	margin-left:4em;	
+}
+
+
+#fake{
+    clear:both;
+}
+ul {
+    list-style: none;
+}
+
+/* Position the navbar container inside the image */
+.container {
+  position: absolute;
+  margin: 20px;
+  width: auto;
+}
+
+/* The navbar */
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
